@@ -1,6 +1,6 @@
 # Health
 # Patrick Kakungulu
-# November 20, 2020
+# 9/27/2021
 # Application to allow user to calculate their BMI.
 # Calculate user heart rate for varying levels of exercise
 # Intesity utilizing Karvonen formula.
